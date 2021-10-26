@@ -1,0 +1,152 @@
+
+Day 01
+
+
+admin login page (static),error mssg,logout
+admin page setup (top/footer)
+category page setup -funcionality:adding ,
+status active-deactive/delete/edit/error mssg
+
+
+Day 02
+
+hand cursar on active /deactivate action
+coupon code 
+delivery boy
+users
+
+Day 03
+
+Dish page creation
+manage Dish Image : updating /inserting/ error mssg/image condition /violation error msg
+admin section title setup 
+
+Day 04
+
+
+unlink the previous image on update
+dish management complete with attribute
+
+
+Day 05
+
+(all about front end)
+Customer Site Theme integration-Home page/Shop page/ about us /contact us /cart/checkout
+
+Fetching category/ Dish picture and name 
+
+banner page done in front and admin section
+
+
+
+day 06
+
+compeleting category checkbox
+making radio dish attributes with price
+register page 
+
+day 07
+
+complete login ,logout,registration with specific error and email push notification
+
+day 08
+
+completing seo friendly and calling all things from server path
+
+
+day 09
+
+completing filterization at front and admin section with icon
+
+day 10
+
+making dish cart database
+completing  add to cart 
+
+day 11
+
+completing top menu add to cart (total price ,details, reduction)
+
+day 12
+
+completing cart and and checkout page (also database update)
+
+day 13
+
+completing user profile page,change password and creating admin order master
+
+day 14
+
+completing pdf invoice front order history and editing checkout page with email pushing invoice
+
+
+day 15
+
+admin dish status and front dish status cart  (debugging the cart)
+
+day 16
+
+admin dish ,dish details ,download pdf correction ,order status changing delivery boy assign
+
+day 17
+
+bug fixing for pdf infoce front and admin section
+coupon code management: cupon minimum,date expired error mssg ,on success final price return
+
+
+day 18
+
+settings:
+cart minimum price setting , mssg and  website close/open setting mssg 
+
+day 19
+
+completing rating calculator by user and show on shop page
+
+
+day 20
+
+fixing coupon code pdf bug order details
+
+day 21
+deliverboy profile page integration
+
+
+day 22
+
+Dashboard page: calculator sale: 24 hours sale, 07 days sale, 30 days sale, 365 days sale,
+Most sale dish, Most active user   and  latest 5 orders
+
+
+day 23
+
+order cancel from customer end and admin order detail panel
+complete search function
+
+
+day 24
+
+delivery boy gets notification when admin assign delivery boy
+
+
+day 25
+
+
+
+adding user registration bonus  wallet  system on admin and front system
+
+
+day26
+
+add money on user wallet from admin
+completing refer code system
+
+day27
+
+completing stripe payment gateway
+
+completing wallet recharge by payment gateway
+
+
+day28
+updating delivery boy login by admin
